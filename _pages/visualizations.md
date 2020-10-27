@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: _layouts/archive.html
 permalink: /visualizations/
 title: "Visualization Projects by Tags"
 author_profile: true  
