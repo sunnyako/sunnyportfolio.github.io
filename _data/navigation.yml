@@ -2,8 +2,8 @@
 main:
   - title: "About"
     url: /about/
-  #- title: "Visualizations"
-  #  url: /visualizations/
+  - title: "Visualizations"
+    url: /visualizations/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
