@@ -1,12 +1,13 @@
 ---
-layout: archive
+layout: single
 permalink: /visualizations/
 title: "Visualization Projects by Tags"
 author_profile: true  
 header:
-  image: "/images/quill.jpg"
+  image: "/images/mountains.jpg"
 
 ---
+
   {% include base_path %}
   {% include group-by-array collection=site.posts field="tags" %}
 
