@@ -2,7 +2,6 @@
 title: "Schiff Fellowship 2018-9 Poster"
 description: Understanding Form in Homer
 date: 2020-10-27
-layout: pdf
 tags: [writing]
 ---
 
